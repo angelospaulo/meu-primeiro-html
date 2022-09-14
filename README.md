@@ -1,2 +1,2 @@
 # meu primeiro html
- Projeto do curso da DIO
+ Repositório criado para publicação do primeiro código do curso HTML da DIO
